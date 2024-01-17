@@ -1,5 +1,5 @@
 {
-    "name": "mikha-dev/laravel-translation-loader",
+    "name": "ibf/laravel-translation-loader",
     "description": "Store your language lines in the database, yaml or other sources",
     "keywords": [
         "spatie",
